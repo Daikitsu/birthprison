@@ -77,7 +77,7 @@ for (const msg of messages) {
 
 const bgm = new Howl({
     src: ['coffeecats.mp3'],
-    volume: 0.5,
+    volume: 0.2,
     loop: true,
     preload: true
 });
