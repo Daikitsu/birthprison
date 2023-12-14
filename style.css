@@ -218,6 +218,7 @@ button#bgm-mute {
     position: absolute;
     top: 6px;
     left: 6px;
+    cursor: url('other/finger.png'), pointer !important;
 }
 
 img.bgm-btn {
@@ -239,8 +240,4 @@ img#bgm-noplay {
 img.bgm-btn:hover {
     filter: invert(1);
     transform: scale(1.08);
-}
-
-a {
-cursor: pointer;
 }
