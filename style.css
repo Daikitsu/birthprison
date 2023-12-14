@@ -201,6 +201,7 @@ img#icon {
     background-color: rgb(0,0,0); /* fallback */
     background-color: rgba(0,0,0,0.7);
     backdrop-filter: blur(8px) grayscale(1);
+    cursor: url('other/finger.png'), pointer !important;
 }
 
 #intro-modal-content {
