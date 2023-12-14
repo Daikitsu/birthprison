@@ -240,3 +240,7 @@ img.bgm-btn:hover {
     filter: invert(1);
     transform: scale(1.08);
 }
+
+a {
+cursor: pointer;
+}
